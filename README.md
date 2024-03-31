@@ -3,7 +3,16 @@
 #### Project Home
 > [https://visitor-badge.laobi.icu](https://visitor-badge.laobi.icu)
 
+#### Usage
+- default style
 
+```markdown
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+```
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+
+- customized left text (default is `visitors`)
 
 
 
