@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)  
 
 #### Project Home
-# [https://visitor-badge.laobi.icu](https://visitor-badge.laobi.icu)  
+ 
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
