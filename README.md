@@ -62,7 +62,7 @@
 
 - 💞️ I’m looking to collaborate on creative projects to hands on my experience.
 
-- 📫 How to reach me via LinkedIn: https://www.linkedin.com/in/muhammad-hassan-%F0%9F%92%A5-data-analytics-967169275/
+- 📫 How to reach me via LinkedIn: www.linkedin.com/in/muhammad-hassan-saeed541
 
 - ⚡ Fun fact: I'm funny person crack jokes :-)
 
